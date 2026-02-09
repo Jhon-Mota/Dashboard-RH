@@ -5,4 +5,4 @@
 - Criação de gráficos de colunas, barras, pizza e cartões para a visualização de informações;
 - Estilização dos gráficos.
 
-![Dashboard - RH](https://github.com/Jhon-Mota/Dashboard-RH/blob/main/image.png)
+
