@@ -6,4 +6,4 @@
 - Estilização dos gráficos.
 
 
-![Dashboard - RH](https://github.com/Jhon-Mota/Dashboard2/blob/main/image.png)
+![Dashboard - RH](https://github.com/Jhon-Mota/Dashboard-RH/blob/main/Dashboard2.png)
